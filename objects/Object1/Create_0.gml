@@ -1,0 +1,2 @@
+/// @desc
+setupstufflol = 1;
