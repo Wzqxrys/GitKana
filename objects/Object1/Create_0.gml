@@ -1,2 +1,2 @@
 /// @desc
-setupstufflol = 1;
+setupstufflol = 3;
